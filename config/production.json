@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "abror mern course",
+    "mongoUri": "mongodb+srv://abror:2022@cluster0.lbcqt98.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
